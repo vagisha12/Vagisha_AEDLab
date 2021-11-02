@@ -17,7 +17,7 @@ import model.Person;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class UpdatePersonDetail extends javax.swing.JPanel {
 

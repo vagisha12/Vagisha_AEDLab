@@ -15,7 +15,7 @@ import model.Vitals;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class CommunityStatus extends javax.swing.JPanel {
 

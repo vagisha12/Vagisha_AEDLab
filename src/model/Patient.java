@@ -7,24 +7,24 @@ package model;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class Patient
 {
-    private EncounterHistory encounterBackground;
+    private EncounterBackground encounterBackground;
     private Person person;
 
     public Patient(Person person)
     {
-        encounterBackground = new EncounterHistory();
+        encounterBackground = new EncounterBackground();
         this.person = person;
     }
     
-    public EncounterHistory getencounterBackground() {
+    public EncounterBackground getencounterBackground() {
         return encounterBackground;
     }
 
-    public void setencounterBackground(EncounterHistory encounterBackground) {
+    public void setencounterBackground(EncounterBackground encounterBackground) {
         this.encounterBackground = encounterBackground;
     }
 

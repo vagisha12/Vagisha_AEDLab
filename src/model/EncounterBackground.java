@@ -10,13 +10,13 @@ import java.util.List;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
-public class EncounterHistory
+public class EncounterBackground
 {
     private List<Encounter> encounterArray;
 
-    public EncounterHistory()
+    public EncounterBackground()
     {
         encounterArray = new ArrayList<>();
     }

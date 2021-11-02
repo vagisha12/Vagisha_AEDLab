@@ -12,7 +12,7 @@ import model.Person;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class MainFrame extends javax.swing.JFrame {
 

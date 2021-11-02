@@ -16,7 +16,7 @@ import model.Vitals;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class PatientBackgroundJPanel extends javax.swing.JPanel {
 

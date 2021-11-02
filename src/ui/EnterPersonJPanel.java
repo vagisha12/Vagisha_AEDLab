@@ -16,7 +16,7 @@ import model.Person;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class EnterPersonJPanel extends javax.swing.JPanel {
 

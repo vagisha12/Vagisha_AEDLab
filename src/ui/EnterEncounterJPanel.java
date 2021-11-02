@@ -26,7 +26,7 @@ import model.Vitals;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class EnterEncounterJPanel extends javax.swing.JPanel {
 

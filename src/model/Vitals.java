@@ -7,7 +7,7 @@ package model;
 
 /**
  *
- * @author ashis
+ * @author vagishadeo
  */
 public class Vitals
 {
